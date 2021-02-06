@@ -19,7 +19,7 @@ Mình thường sử dụng một số framework chính bên dưới để xây 
   - Vue
 
 # Mục Tiêu
-Đây là bài viết đầu tiên của Bác3Fi, Blog này được lập ra để chia sẽ nhưng kiến thức
+Đây là bài viết đầu tiên của Bác3Fi, Blog này được lập ra để chia sẻ nhưng kiến thức
 mình tiếp thu được trong quá trình học tập và làm việc. Mong các bạn sẽ ủng hộ trong
 thời gian tới!
 # Lý do mình chọn VuePress để viết blog
