@@ -6,7 +6,7 @@ tags:
   - about
 ---
 
-# Giới thiệu
+## Giới thiệu
 Mình tên Phạm Nhật Phi (Bác3Fi), hiện đang là một Fullstack Developer
 
 Mình thường sử dụng một số framework chính bên dưới để xây dựng website.
@@ -18,11 +18,11 @@ Mình thường sử dụng một số framework chính bên dưới để xây 
   - React
   - Vue
 
-# Mục Tiêu
+## Mục Tiêu
 Đây là bài viết đầu tiên của Bác3Fi, Blog này được lập ra để chia sẻ nhưng kiến thức
 mình tiếp thu được trong quá trình học tập và làm việc. Mong các bạn sẽ ủng hộ trong
 thời gian tới!
-# Lý do mình chọn VuePress để viết blog
+## Lý do mình chọn VuePress để viết blog
 Như các bạn cũng đã biết, VueJS là một framework linh động để xây dựng giao diện người
 dùng, và VuePress là "static site generator" cũng được phát triển dựa vào VueJS.
 
