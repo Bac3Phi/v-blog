@@ -24,7 +24,7 @@ with Ruby on Rails and JavaScript.
 ## EXPERIENCES
 
 ### 01/2019 - 03/2020
-#### NEOLAB [:vietnam: :jp:] [Link](https://neo-lab.vn/)
+#### [NEOLAB](https://neo-lab.vn/)
 - [RESTART INTERVIEW](https://restart-interview.com/)
   - Developed booking and hiring jobs system based on the Ruby on
 Rails framework.
@@ -32,7 +32,7 @@ Rails framework.
   - Improving business workflow, accounting, and productivity
 through the application.
 ### 01/2019 - Current
-#### ROBUST TECH HOUSE [:vietnam: :singapore:] [Link](https://robusttechhouse.com/)
+#### [ROBUST TECH HOUSE](https://robusttechhouse.com/)
 - [FacilityBot](https://facilitybot.co/)
   - blah blah
   - blah blah

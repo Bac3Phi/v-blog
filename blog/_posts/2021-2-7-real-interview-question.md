@@ -45,3 +45,5 @@ Explain what Object-oriented Programming is and the benefits of using an Object-
 In an ecommerce application, with discrete levels of stock, how would you manage a situation
 where two customers were interested in buying the last unit of stock for an item? How would
 your solution ensure the greatest possibility of the item being sold?
+## Question 8
+Explain the benefits of using an MVC Framework
