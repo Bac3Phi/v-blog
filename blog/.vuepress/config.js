@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/v-blog/',
   plugins: [
     ['container', {
       type: 'tip',
