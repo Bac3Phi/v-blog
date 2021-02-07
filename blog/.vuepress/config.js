@@ -30,6 +30,10 @@ module.exports = {
   theme: '@vuepress/blog',
   title: 'Bac3Fi',
   themeConfig: {
+    comment: {
+      service: 'disqus',
+      shortname: 'bac3fi-blog',
+    },
     nav: [
       {
         text: 'Blog',
